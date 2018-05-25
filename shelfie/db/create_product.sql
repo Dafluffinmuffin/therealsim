@@ -1,0 +1,1 @@
+insert into products (item, price, quantity) values ($1, $2, $3);
